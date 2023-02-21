@@ -1,0 +1,1 @@
+## React Native project focused on training for developing animated lists.
